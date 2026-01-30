@@ -1,0 +1,6 @@
+## How It Works
+1. User enters password using keypad
+2. LCD displays `*` for each digit
+3. Correct password → Door unlocks
+4. Wrong password → Buzzer + warning
+5. Multiple wrong attempts → Security delay
